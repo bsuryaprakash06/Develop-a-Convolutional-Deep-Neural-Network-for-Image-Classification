@@ -3,8 +3,8 @@
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
-##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+## PROBLEM STATEMENT AND DATASET
+Classify Fashion-MNIST images into their respective clothing categories using a convolutional neural network (CNN).
 
 ## Neural Network Model
 | Layer   | Number of Nodes  |
@@ -16,6 +16,7 @@ Include the Problem Statement and Dataset.
 | FC1     | 128              |
 | FC2     | 64               |
 | Output  | 10               |
+
 <img width="950" height="534" alt="image" src="https://github.com/user-attachments/assets/a59e4cee-29aa-4fd9-a7c8-f87a134ec202" />
 
 
