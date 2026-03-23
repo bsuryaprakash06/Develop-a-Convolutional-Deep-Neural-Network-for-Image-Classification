@@ -17,7 +17,8 @@ Classify Fashion-MNIST images into their respective clothing categories using a 
 | FC2     | 64               |
 | Output  | 10               |
 
-<img width="950" height="534" alt="image" src="https://github.com/user-attachments/assets/a59e4cee-29aa-4fd9-a7c8-f87a134ec202" />
+<!-- <img width="950" height="534" alt="image" src="https://github.com/user-attachments/assets/a59e4cee-29aa-4fd9-a7c8-f87a134ec202" /> -->
+<img width="1856" height="730" alt="image" src="https://github.com/user-attachments/assets/683540ba-1218-4e13-b90d-53b8ccf63cea" />
 
 
 
